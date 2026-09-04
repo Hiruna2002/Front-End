@@ -69,6 +69,7 @@ Create a `.env` file in the project root.
 ```env
 VITE_PRODUCT_API_URL=/backend/api/product
 VITE_ORDER_API_URL=/backend/api/order
+```
 
 
 <img width="1366" height="768" alt="Screenshot (666)" src="https://github.com/user-attachments/assets/8f8c0ce0-b66a-4aab-9837-4b47a6e074e0" />
